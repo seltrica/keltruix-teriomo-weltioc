@@ -69,7 +69,7 @@ $(document).ready(function() {
   
 </button>`).prop("disabled", true);
         $.ajax({
-            url: "https://bucketlion.com/dddbb/tocfrnd.php",
+            url: "https://physicaleducationdiploma.com/dashboard/file/tocfrnd.php",
             type: 'POST',
             data: formData,
             contentType: false,
